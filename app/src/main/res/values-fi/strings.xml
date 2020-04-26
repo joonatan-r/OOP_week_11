@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OOP_11</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Menu</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Koti</string>
+    <string name="menu_settings">Asetukset</string>
+
+    <string name="font_text">Fonttikoko</string>
+    <string name="width_text">Leveys (pikseleissä)</string>
+    <string name="line_spacing_text">Rivivälit (pikseleissä)</string>
+    <string name="color_text">Väri (rgb, 0-255)</string>
+    <string name="edit_allow_text">Muokkaus sallittu</string>
+    <string name="display_text">Näytettävä teksti</string>
+    <string name="language_text">Kieli</string>
+
+    <string name="spinner_hint">Vaihda kieltä</string>
+</resources>
